@@ -1,5 +1,5 @@
 Welcome
-==================
+----
 
 Esse é um projeto feito para testar as funcionalidades do site glitch.
 
@@ -10,9 +10,8 @@ Esse é um projeto feito para testar as funcionalidades do site glitch.
 
 
 
-----
 
-Made with [Glitch](https://glitch.com/)
 -------------------
+Made with [Glitch](https://glitch.com/)
 
 \ ゜o゜)ノ
